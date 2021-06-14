@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "id": "urn:decentraland:ethereum:collections-v1:exclusive_masks:killer_mask",
+      "nid": "urn:decentraland:ethereum:collections-v1:exclusive_masks:killer_mask",
       "name": "Killer Mask",
       "description": "DCL Wearable 1/100",
       "language": "en-US",
