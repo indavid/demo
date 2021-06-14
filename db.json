@@ -1,6 +1,5 @@
 {
   "addresses": {
-    {
       "ropsten": {
         "PrivateNodeWallet": "0x62ba62ff92917edf8ac0386fa10e3b27950bce8d",
         "MANAToken": "0xa765715f19a05664f157dc5d411b27b67d69ef91",
